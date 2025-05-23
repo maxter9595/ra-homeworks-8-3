@@ -16,6 +16,7 @@ npm run dev
 
 ## Вход
 Логин: vasya
+
 Пароль: password
 
 ![Веб-страница](./motions/web-page.gif)

@@ -14,4 +14,8 @@ npm run dev
 
 Ссылка на публичную страницу: https://ra-homeworks-8-3-git-main-maxim-terltskiis-projects.vercel.app
 
+## Вход
+Логин: vasya
+Пароль: password
+
 ![Веб-страница](./motions/web-page.gif)
